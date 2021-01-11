@@ -1,4 +1,4 @@
-This is a tutorial on how to use OpenCV library with python. I used this video from freecodecamp https://www.youtube.com/watch?v=oXlwWbU8l2o
+This is a tutorial on how to use OpenCV library with python. I used this video from freecodecamp https://www.youtube.com/watch?v=oXlwWbU8l2o for my learning purpose
 
 
 
