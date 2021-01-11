@@ -2,7 +2,7 @@ This is a tutorial on how to use OpenCV library with python. I used this video f
 
 
 
-####Requirement
+#### Requirement
 * visual studio code - https://code.visualstudio.com/download
 * miniconda - https://docs.conda.io/en/latest/miniconda.html
 * kite for visual studio - https://www.kite.com/
