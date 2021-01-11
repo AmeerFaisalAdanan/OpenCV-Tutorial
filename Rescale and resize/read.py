@@ -25,6 +25,3 @@ while True:
 # release capture pointer from VideoCapture
 # destroy all opened windows
 cv.destroyAllWindows()
-
-
-# -215:Assertion failed will be throw when all the frame has been viewed in the video
