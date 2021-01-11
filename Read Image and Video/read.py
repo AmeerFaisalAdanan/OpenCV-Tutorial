@@ -1,5 +1,8 @@
 import cv2 as cv
 
+
+# # image part 
+
 # img = cv.imread('Photos/cat.jpg') # read images from Photo directory that contain cat.jpg
 
 # cv.imshow('Cat', img) #show images in new windows called Cat
