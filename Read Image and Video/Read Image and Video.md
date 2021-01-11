@@ -14,6 +14,8 @@ opencv support reading various image extensions such as jpg, png, tiff etc
 
 ``` imshow ``` to display the image we have load earlier
 
+![alt tag](../res/cat.PNG)
+
 
 ##### To read video 
 
