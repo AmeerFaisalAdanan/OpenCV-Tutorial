@@ -23,13 +23,13 @@ This is a tutorial on how to use OpenCV library with python. I used this video f
 
 ##### Setting up environment
 
-###### Eazy peazy lemon squezy method 
+###### Eazy peazy lemon squezy method :lemon:
 - open cmd, cd to project folder
-- run start.bat
+- run ```start.bat```
 
 
-###### Hard hard lemonade hard method
+###### Hard hard watermelon sugar hard method :watermelon:
 - open cmd
-- run conda create --name [ENVIRONMENT NAME] python=[VERSION NO] -y (I use opencv and 3.6 for this tutorial, without [] )
-- activate environment using conda activate [ENVIRONMENT NAME] 
+- run conda ```create --name [ENVIRONMENT NAME] python=[VERSION NO] -y``` (I use opencv and 3.6 for this tutorial, without [] )
+- activate environment using ```conda activate [ENVIRONMENT NAME]``` 
 
